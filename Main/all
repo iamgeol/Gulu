@@ -2,6 +2,7 @@
   {
     "id": "000001",
     "name": "Caja de Cigarros Popular Rojo",
+    "category": "none"
     "description": "Cajetillas de cigarros marca popular rojo",
     "stock": "35",
     "price": "1.00"
