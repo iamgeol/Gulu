@@ -1,4 +1,6 @@
 [
-  "dollar": "430",
-  "delivery": "100"
+  {
+    "dollar": "430",
+    "delivery": "100"
+  }
 ]
