@@ -1,5 +1,7 @@
 [
-  "id_suspended_account": "",
-  "account": "",
-  "expiration_date": ""
+  {
+    "id_suspended_account": "",
+    "account": "",
+    "expiration_date": ""
+  }
 ]
