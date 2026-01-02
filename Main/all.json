@@ -1,10 +1,20 @@
 [
   {
-    "id": "000001",
-    "name": "Caja de Cigarros Popular Rojo",
-    "category": "none"
-    "description": "Cajetillas de cigarros marca popular rojo",
-    "stock": "35",
-    "price": "1.00"
+    "id": "prod001",
+    "name": "Aceite de Girasol",
+    "price": "5.50",
+    "stock": "12"
+  },
+  {
+    "id": "prod002",
+    "name": "Arroz Integral",
+    "price": "2.10",
+    "stock": "45"
+  },
+  {
+    "id": "prod003",
+    "name": "Café en Grano",
+    "price": "8.00",
+    "stock": "8"
   }
 ]
