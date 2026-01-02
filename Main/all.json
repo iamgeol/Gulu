@@ -12,7 +12,7 @@
     "name": "Arroz Integral",
     "category": "food",
     "description": "none",
-    "price": "2.10",
+    "price": "1.20",
     "stock": "45"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Café en Grano",
     "category": "food",
     "description": "el mejor café criollo",
-    "price": "8.00",
+    "price": "2.25",
     "stock": "8"
   }
 ]
