@@ -5,7 +5,7 @@
     "category": "none",
     "description": "Cajetillas de cigarros marca popular rojo",
     "price": "1.00",
-    "stock": "35"
+    "stock": "30"
   },
   {
     "id": "prod002",
@@ -13,7 +13,7 @@
     "category": "food",
     "description": "none",
     "price": "1.20",
-    "stock": "45"
+    "stock": "41"
   },
   {
     "id": "prod003",
