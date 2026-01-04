@@ -3,5 +3,10 @@
     "id_suspended_account": "susp001",
     "account": "03052969922",
     "expiration_date": "4/2/2026"
+  },
+  {
+    "id_suspended_account": "susp002",
+    "account": "04040405828",
+    "expiration_date": "6/5/2026
   }
 ]
