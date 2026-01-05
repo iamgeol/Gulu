@@ -1,12 +1,7 @@
 [
   {
-    "id_suspended_account": "susp001",
-    "account": "00052969922",
-    "expiration_date": "4/2/2026"
-  },
-  {
-    "id_suspended_account": "susp002",
-    "account": "84101409857",
-    "expiration_date": "6/5/2026"
+    "id_suspended_account": "",
+    "account": "",
+    "expiration_date": ""
   }
 ]
