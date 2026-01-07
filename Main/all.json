@@ -64,8 +64,8 @@
     "stock": "15"
   },
   {
-    "id": "Refresco Coca Cola",
-    "name": "Café en Grano",
+    "id": "prod009",
+    "name": "Coca Cola",
     "category": "food",
     "description": "el mejor café criollo",
     "price": "300",
