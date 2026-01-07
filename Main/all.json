@@ -22,5 +22,61 @@
     "description": "el mejor café criollo",
     "price": "270",
     "stock": "8"
+  },
+  {
+    "id": "prod004",
+    "name": "Módulo de comida",
+    "category": "none",
+    "description": "Cajetillas de cigarros marca popular rojo",
+    "price": "16000",
+    "stock": "50"
+  },
+  {
+    "id": "prod005",
+    "name": "Refresco Tukola",
+    "category": "food",
+    "description": "none",
+    "price": "250",
+    "stock": "15"
+  },
+  {
+    "id": "prod006",
+    "name": "Refresco Ciego Montero Limón",
+    "category": "food",
+    "description": "el mejor café criollo",
+    "price": "600",
+    "stock": "8"
+  },
+  {
+    "id": "prod007",
+    "name": "File de Huevos",
+    "category": "none",
+    "description": "Cajetillas de cigarros marca popular rojo",
+    "price": "900",
+    "stock": "20"
+  },
+  {
+    "id": "prod008",
+    "name": "Ironbeer",
+    "category": "food",
+    "description": "none",
+    "price": "260",
+    "stock": "15"
+  },
+  {
+    "id": "Refresco Coca Cola",
+    "name": "Café en Grano",
+    "category": "food",
+    "description": "el mejor café criollo",
+    "price": "300",
+    "stock": "8"
+  },
+  {
+    "id": "prod010",
+    "name": "Lentejas en Pomo",
+    "category": "food",
+    "description": "el mejor café criollo",
+    "price": "500",
+    "stock": "14"
   }
 ]
