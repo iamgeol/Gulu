@@ -4,7 +4,7 @@
     "name": "Caja de Cigarros Popular Rojo",
     "category": "none",
     "description": "Cajetillas de cigarros marca popular rojo",
-    "price": "1.00",
+    "price": "400",
     "stock": "20"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Arroz Integral",
     "category": "food",
     "description": "none",
-    "price": "1.20",
+    "price": "850",
     "stock": "15"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Café en Grano",
     "category": "food",
     "description": "el mejor café criollo",
-    "price": "2.40",
+    "price": "270",
     "stock": "8"
   }
 ]
