@@ -1,37 +1,5 @@
 [
   {
-    "id": "prod001",
-    "name": "Caja de Cigarros Popular Rojo",
-    "category": "none",
-    "description": "Cajetillas de cigarros marca popular rojo",
-    "price": "400",
-    "stock": "20"
-  },
-  {
-    "id": "prod002",
-    "name": "Arroz Integral",
-    "category": "food",
-    "description": "none",
-    "price": "850",
-    "stock": "15"
-  },
-  {
-    "id": "prod003",
-    "name": "Café en Grano",
-    "category": "food",
-    "description": "el mejor café criollo",
-    "price": "270",
-    "stock": "8"
-  },
-  {
-    "id": "prod004",
-    "name": "Módulo de comida",
-    "category": "none",
-    "description": "Cajetillas de cigarros marca popular rojo",
-    "price": "16000",
-    "stock": "50"
-  },
-  {
     "id": "prod005",
     "name": "Refresco Tukola",
     "category": "food",
