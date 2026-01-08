@@ -1,50 +1,98 @@
 [
   {
-    "id": "prod005",
-    "name": "Refresco Tukola",
+    "id": "prod001",
+    "name": "Aceite de girasol Kada (900ml)",
     "category": "food",
-    "description": "none",
-    "price": "250",
-    "stock": "15"
+    "description": "Ingredientes: Aceite de girasol. País de origen: Argentina.",
+    "price": "1200",
+    "stock": "150"
+  },
+  {
+    "id": "prod002",
+    "name": "Yogurt sabor frambuesa y melocotón Yoqo (4 x 125 g / 4. 41 oz)",
+    "category": "food",
+    "description": "Ingredientes: Leche fermentada (786), suero, almidón modificado, frutas y zumo de frutas a base concentrado. Valor nutritivo medio por 100 g: Valor energeticos 214 kJ (51 kcal), grasas: 1. 6 g -de las cuales saturadas: 1. 0g, hidratos de carbono: 6. 4 g -de los cuales azúcares: 3. 5 g, proteínas: 2. 70 sal (0, 170). País de origen: Alemania.",
+    "price": "1140",
+    "stock": "80"
+  },
+  {
+    "id": "prod003",
+    "name": "Zumo de limón Ital Lemon (200 ml)",
+    "category": "food",
+    "description": "Jugo de limón elaborado a partir de zumo concentrado Ingredientes: Jugo de limón, conservante (metabisulfito de potasio). País de origen: Italia",
+    "price": "3150",
+    "stock": "100"
+  },
+  {
+    "id": "prod004",
+    "name": "Yuca pelada congelada allÁ (907 g / 2 lb)",
+    "category": "food",
+    "description": "Yuca pelada y congelada, lista para cocinar. Conserva su textura firme y sabor natural, ideal para hervir, freír o usar en platos tradicionales. Práctica y versátil, directamente del congelador a la olla. País de origen: Cuba",
+    "price": "830",
+    "stock": "700"
+  },
+  {
+    "id": "prod005",
+    "name": "Vinagre de vino blanco Vivó (1 l)",
+    "category": "food",
+    "description": "Ingredientes: Vinagre de vino blanco, antioxidante: E-220. Origen: España.",
+    "price": "880",
+    "stock": "90"
   },
   {
     "id": "prod006",
-    "name": "Refresco Ciego Montero Limón",
+    "name": "Trozo de carne de res Avituaia (1. 5 kg / 3. 3 lb)",
     "category": "food",
-    "description": "el mejor café criollo",
-    "price": "600",
-    "stock": "8"
+    "description": "Ingrediente: Carne de res. No contiene aditivos. Valor nutricional: Cada 100 g de carne cruda hay energía: 210 kcal, proteínas: 27 g, grasas totales: 10 g (saturadas: 4 g, monoinsaturadas: 4 g, poliinsaturadas: 0, 5 g), colesterol: 75 mg, minerales: 425 mg, vitamina B12:2, 5 µg. Conservar a -18 grados Celsius. País de origen: España",
+    "price": "500",
+    "stock": "14"
   },
   {
     "id": "prod007",
-    "name": "File de Huevos",
-    "category": "none",
-    "description": "Cajetillas de cigarros marca popular rojo",
-    "price": "900",
-    "stock": "20"
+    "name": "Troceado de embutidos Cuba Embutidos (454 g / 1 lb)",
+    "category": "food",
+    "description": "Variedad de embutidos cortados en pequeños pedazos, especial para arroz amarillo, potajes y cocinarlo en salsa. Ingredientes: Muslo de pollo, azucar, sal comun, sal de cura, agua y polifosfato. País de origen: Cuba",
+    "price": "4350",
+    "stock": "190"
   },
   {
     "id": "prod008",
-    "name": "Ironbeer",
+    "name": "Tronchos en salmuera yeya (425 g / 15 oz)",
     "category": "food",
-    "description": "none",
-    "price": "260",
-    "stock": "15"
+    "description": "Ingredientes: Caballa, agua y sal. Puede contener trazas de otros pescados. Conservar a temperatura ambiente, preferiblemente en un lugar fresco y seco. Refrigerar una vez abierto. Peso neto: 425 g / 15 oz País de origen: China.",
+    "price": "1110",
+    "stock": "86"
   },
   {
     "id": "prod009",
-    "name": "Coca Cola",
+    "name": "Tres bolas de pierna de cerdo para asar May sm (4. 08 kg / 9 lb)",
     "category": "food",
-    "description": "el mejor café criollo",
-    "price": "300",
-    "stock": "8"
+    "description": "Cada bola de cerdo es un corte compacto, redondo o ligeramente ovalado de la pierna del cerdo. Su color va del rosa al rojo claro, con bajo contenido de grasa externa, aunque puede presentar vetas internas que le aportan jugosidad y sabor. Este corte es apreciado por su versatilidad, rendimiento y facilidad de manejo, lo que lo hace ideal para asar entero. Producto reenvasado en Cuba en porciones más pequeñas. País de origen: Estados Unidos",
+    "price": "19020",
+    "stock": "110"
   },
   {
     "id": "prod010",
-    "name": "Lentejas en Pomo",
+    "name": "Sopa instantánea de fideos sabor a pollo Qbanito (70 g / 2. 47 oz)",
     "category": "food",
-    "description": "el mejor café criollo",
-    "price": "500",
-    "stock": "14"
+    "description": "Ingredientes: Fideos: Harina de trigo (gluten), aceites vegetales (oleína de palma con antioxidante e319), agua, sal, agente leudante (polvo de hornear), polifosfato de sodio e452i, goma guar (e412), carbonato de sodio e500i, carbonato de potasio e501i, riboflavina (vitamina b2). Polvo de condimento: Sal, potenciadores de sabor (e621, e627, e631), azúcar, saborizantes de pollo (naturales, idénticos al natural y artificiales), especias, regulador de acidez e330, antiaglomerante e551, colorante e150d. País de origen: Egipto.",
+    "price": "340",
+    "stock": "120"
+  },
+  {
+    "id": "prod011",
+    "name": "Sal fina común Cosecha Real (2 x 1 kg / 2. 2 lb)",
+    "category": "food",
+    "description": "Ingredientes: Sal fina común 100 % La sal fina común es un condimento esencialen la cocina diaria. Perfecta para uso doméstico o profesional. Este producto es 100 % natural, sin aditivos ni conservantes. País de origen: Cuba",
+    "price": "1180",
+    "stock": "910"
+  },
+  {
+    "id": "prod012",
+    "name": "Aceitunas verdes con hueso Vima Foods (290 g / 10. 23 oz)",
+    "category": "food",
+    "description": "Ingredientes: Aceitunas verdes con hueso, agua, sal, acidulantes (e-270, e-330), antioxidante (e-300) y conservador (e-202). Variedad: Manzanilla. País de Origen: España.",
+    "price": "980",
+    "stock": "100"
   }
 ]
